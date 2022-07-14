@@ -1,0 +1,17 @@
+body {
+    
+}
+.wButton {
+    margin: 0 0 0 .5rem ;
+    padding: .5rem .8rem;
+    font-size: 0.8em;
+    font-style: normal;
+    border: solid 1px #d4d4d4;
+    border-radius: 4px;
+}
+.fontColorD {
+    color: #4acaa8;
+}
+.table-wrapper tbody tr td  a span {
+    margin: 0 0 0 1rem !important;
+}
